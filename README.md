@@ -41,4 +41,9 @@ Right-click the .bat file and select "Run as administrator."
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/240ef522-c97d-49ed-800c-814ea23f3e43)
+![image](https://github.com/user-attachments/assets/37e3e873-9293-472d-b484-c088c6541e01)
+![image](https://github.com/user-attachments/assets/2016250d-b8c3-43bf-9872-149372559b04)
+![image](https://github.com/user-attachments/assets/129445ec-e6e6-4614-94d3-ebbed27bf144)
+
+
+
